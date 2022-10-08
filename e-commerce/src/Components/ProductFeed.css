@@ -1,0 +1,68 @@
+.productPageStyle{
+    background-color:white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading-cont{
+    height: 10vh;
+    background-color: blue;
+    text-align: center;
+
+}
+
+.footer {
+    height: 10vh;
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card-style{
+    
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.product-name {
+    font-family: Roboto;
+    font-size: 30px;
+    color: black;
+    font-weight: 300;
+}
+.product-description{
+    font-family: Roboto;
+    font-size: 15px;
+    color: gray;
+    font-weight: bold;
+    margin: 5px;
+}
+.image {
+    height : 200px;
+    width: 150px;
+}
+.price-tag{
+    font-family: Roboto;
+    font-size: 20px;
+    color: green;
+    text-decoration: underline;
+}
+.first-heading{
+    font-family: Roboto;
+    font-size: 50px;
+    color: white;
+    font-weight: 400;
+}
+.exit-note{
+    font-family: Roboto;
+    font-weight: 200;
+    color: white;
+    font-size: 40px;
+}

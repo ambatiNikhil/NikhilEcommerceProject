@@ -1,0 +1,59 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://png.pngtree.com/background/20210710/original/pngtree-e-commerce-discount-banner-background-picture-image_1047000.jpg");
+    background-size: cover;
+    height: 100vh;
+
+}
+.Login-heading{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 45px;
+    color: antiquewhite;
+}
+
+.formBox{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 10px;
+}
+
+.nameStyle {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.inputStyle {
+    width: 80%;
+    background-color: white;
+    border-width: 0px;
+
+}
+
+.form-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.formStyle{
+    border-color: green;
+    border-radius: 10px;
+    border-width: 1px;
+    background-color: rgb(26, 56, 46);
+    width: 60%;
+    padding: 10px;
+
+}
+.paragraph{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+}

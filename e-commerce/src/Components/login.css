@@ -1,0 +1,59 @@
+.main-cont {
+    background-image: url("https://media.istockphoto.com/photos/latina-female-using-desktop-computer-with-clothing-online-web-store-picture-id1347626309");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-cont{
+    background-color: whitesmoke;
+    border-color: blue;
+    width: 70%;
+    height: 60%;
+    border-radius: 10px;
+    border-width: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputs-box{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 5px;
+}
+
+.input-style {
+    
+    border-width: 1px;
+    width: 80%;
+    
+}
+
+.name-style{
+    font-family: Roboto;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+}
+.Lparagraph{
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 300;
+    color: black;
+}
+.form-heading{
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(19, 13, 2);
+}
+.structure{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
